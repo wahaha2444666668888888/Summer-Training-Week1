@@ -1,0 +1,4 @@
+/data
+/wandb
+train_mnist.py
+fashion_mnist_mlp.pt
