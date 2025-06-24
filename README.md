@@ -67,6 +67,7 @@ Summer-Training-Week1/
     ├── wandb_link.txt
     ├── nvidia-smi.png
     └── result_log.txt
+    └──requirements.txt
 
 
 #推送與發 PR
@@ -78,5 +79,5 @@ git push origin student_你的名字/week1
 每位學生 只能修改自己資料夾
 
 請確保程式碼可以順利執行
-
+請附上 你的 requirements.txt 建議在虛擬環境中完成作業（如 conda)
 模型訓練過程建議使用 tmux 執行，避免 TWCC 連線中斷
